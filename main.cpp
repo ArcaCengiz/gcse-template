@@ -14,6 +14,7 @@ int main() {
     return 0;
 }
 
+// Calculate VAT value
 float calcVAT(float value) {
     return value * VAT;
 }
